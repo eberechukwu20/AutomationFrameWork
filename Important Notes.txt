@@ -1,0 +1,9 @@
+Important Exceptions:
+1. Null Pointer Exception: when the object is not created!!
+2. IO Exception
+3. File Not Found Exception
+4. (Selenium)NoSuchElementException : When wd is not able to find element with the specified locator
+5. Number Format Exception: String to integer or any number and the String consist of special characters ($800)
+6. (Selenium) Stale Element Exception: element is not attached to the page document
+
+Alerts,Frames and Handles (Tab) : switchTo
