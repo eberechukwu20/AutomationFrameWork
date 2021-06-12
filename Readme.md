@@ -1,9 +1,8 @@
-# Automation Solution
+# Automation FrameWork
 
 This project uses java programming language along with maven to manage dependencies:
 
-##Repo Link: 
-Markup : [Gitlab](https://gitlab.com/testautomationacademy/atbatchnov2020/interviewquestion/automationprojectsolution.git)
+
 
 ## Add dependencies:
 Add it in pom.xml
